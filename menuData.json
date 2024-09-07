@@ -1,0 +1,40 @@
+{
+  "categories": {
+    "breakfast": [
+      {
+        "restaurant_id": 1,
+        "restaurant_name": "አምሮኝ Chicken",
+        "menu": [
+          { "name": "የአንበሳ ቁርስ /Lion's Breakfast", "price": "120 Birr" },
+          { "name": "ፍርፍር /Scrambled Eggs", "price": "80 Birr" }
+        ]
+      },
+      {
+        "restaurant_id": 2,
+        "restaurant_name": "Afnan Cafe",
+        "menu": [
+          { "name": "እንጀራ ቁርስ /Injera Breakfast", "price": "100 Birr" },
+          { "name": "ተራፋላ /Tea & Bread", "price": "50 Birr" }
+        ]
+      }
+    ],
+    "main_dish": [
+      {
+        "restaurant_id": 3,
+        "restaurant_name": "Amif Broasted",
+        "menu": [
+          { "name": "Broasted Chicken", "price": "150 Birr" },
+          { "name": "Chicken with Rice", "price": "200 Birr" }
+        ]
+      },
+      {
+        "restaurant_id": 4,
+        "restaurant_name": "Pizza Hut",
+        "menu": [
+          { "name": "Pizza", "price": "200 Birr" },
+          { "name": "Pasta", "price": "150 Birr" }
+        ]
+      }
+    ]
+  }
+}
